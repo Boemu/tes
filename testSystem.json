@@ -1,0 +1,1 @@
+{"name":"testSystem","master":true,"version":"0.0.1","description":"","schemas":{},"models":{},"behaviors":{"d1d4f11c0b01d4cd":{"_id":"d1d4f11c0b01d4cd","component":"k1aeb814dbb12eb1","state":"start","action":"function start() { \n  \n}","useCoreAPI":false,"core":false}},"types":{},"components":{},"_id":"k1aeb814dbb12eb1"}
